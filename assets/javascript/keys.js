@@ -1,4 +1,4 @@
-console.log('got Spotify API keys');
+// console.log('got Spotify API keys');
 
 module.exports.spotify = {
   id: process.env.SPOTIFY_ID,

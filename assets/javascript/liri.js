@@ -37,20 +37,44 @@ function getConcertInfo(artist) {
       // If the axios was successful...
       var rd = response.data[0]
     
-      console.log("artists: ", rd.lineup)
-      console.log("date/time: ", rd.datetime)
-      console.log("venue: ", rd.venue.name)
-      console.log("location: ", rd.venue.city + ", " + rd.venue.region, "(", rd.venue.country, ")")
-      console.log("click here for details: \n" + rd.url)
+      var artists = rd.lineup;
+      var venue = rd.venue.name;
+      var datetime = rd.datetime;
+      var city = rd.venue.city;
+      var state = rd.venue.region;
+      var country = rd.venue.country;
+      var location = city + ", " + state + " (" + country + ")"
+      var url = rd.url;
 
-      var toWrite = [];
-      toWrite.push("artists: " + rd.lineup)
-      toWrite.push("\n" + "date/time: " + rd.datetime)
-      toWrite.push("\n" + "venue: " + rd.venue.name)
-      toWrite.push("\n" + "location: " + rd.venue.city + ", " + rd.venue.region + "(" + rd.venue.country + ")")
-      toWrite.push("\n" + "click here for details: \n" + rd.url)
-// implement "template literal" here
-      writeLog(toWrite);
+      // console.log("artists: ", artists)
+      // console.log("date/time: ", datetime)
+      // console.log("venue: ", venue)
+      // console.log("location: ", location)
+      // console.log("click here for details: \n" + url)
+
+      var tempLit = 
+      (` 
+      artists:    ${artists}
+      date/time:  ${datetime}
+      venue:      ${venue}
+      location:   ${location}
+
+      click below for details:  
+      ${url}
+      `)
+
+      console.log(tempLit)
+
+      // var toWrite = [];
+      // toWrite.push("artists: " + artists)
+      // toWrite.push("\n" + "date/time: " + datetime)
+      // toWrite.push("\n" + "venue: " + venue)
+      // toWrite.push("\n" + "location: " + location)
+      // toWrite.push("\n" + "click here for details: \n" + url)
+
+      // writeLog(toWrite);
+
+      writeLog(tempLit)
     })
 
     // "datetime": "2017-03-19T11:00:00",
@@ -96,17 +120,28 @@ function getSpotifyInfo(song) {
         var artistName = data.tracks.items[0].artists[0].name;
         var previewURL = data.tracks.items[0].preview_url
 
-        console.log("title: ", songTitle)
-        console.log("artist: ", artistName); 
-        console.log("preview link: ", previewURL)
+        var tempLit = 
+        (` 
+        title:    ${songTitle}
+        artist:   ${artistName}
+        preview link: 
+        ${previewURL}
+        `)
+
+        console.log(tempLit)
+        writeLog(tempList)
+
+        // console.log("title: ", songTitle)
+        // console.log("artist: ", artistName); 
+        // console.log("preview link: ", previewURL)
 
         
-        var toWrite = [];
-        toWrite.push("title: " + songTitle)
-        toWrite.push("\n" + "artist: " + artistName); 
-        toWrite.push("\n" + "preview link: " + previewURL)
+        // var toWrite = [];
+        // toWrite.push("title: " + songTitle)
+        // toWrite.push("\n" + "artist: " + artistName); 
+        // toWrite.push("\n" + "preview link: " + previewURL)
 
-        writeLog(toWrite)
+        // writeLog(toWrite)
     })
 }
 
@@ -120,28 +155,56 @@ function getMovieInfo(movie) {
         var rd = response.data;
       // If the axios was successful...
     //   console.log("got the data:", response.data)
-      console.log("title: ", rd.Title)
-      console.log("year: ", rd.Year)
-      console.log("imdb rating: ", rd.imdbRating, " after ", rd.imdbVotes, " votes")
-      console.log("rotten tomatoes rating: ", rd.Ratings[1].Value)
-      console.log("country: ", rd.Country)
-      console.log("language: ", rd.Language)
-      console.log("plot: ", rd.Plot)
-      console.log("actors: ", rd.Actors)
-      console.log("awards: ", rd.Awards)
-      
-      var movieInfo = []
-      movieInfo.push("title: " + rd.Title)
-      movieInfo.push("\n" + "year: " + rd.Year)
-      movieInfo.push("\n" + "imdb rating: " + rd.imdbRating + " after " + rd.imdbVotes + " votes")
-      movieInfo.push("\n" + "rotten tomatoes rating: " + rd.Ratings[1].Value)
-      movieInfo.push("\n" + "country: " + rd.Country)
-      movieInfo.push("\n" + "language: " + rd.Language)
-      movieInfo.push("\n" + "plot: " + rd.Plot)
-      movieInfo.push("\n" + "actors: " + rd.Actors)
-      movieInfo.push("\n" + "awards: " + rd.Awards)
 
-      writeLog(movieInfo)
+      var title = rd.Title;
+      var year = rd.Year;
+      var imdbRating = rd.imdbRating;
+      var imdbVotes = rd.imdbVotes;
+      var rtRating = rd.Ratings[1].Value;
+      var country = rd.Country;
+      var language = rd.Language;
+      var plot = rd.Plot;
+      var actors = rd.Actors;
+      var awards = rd.Awards;
+
+      // console.log("title: ", title)
+      // console.log("year: ", year)
+      // console.log("imdb rating: ", imdbRating, " after ", imdbVotes, " votes")
+      // console.log("rotten tomatoes rating: ", rtRating)
+      // console.log("country: ", country)
+      // console.log("language: ", language)
+      // console.log("plot: ", plot)
+      // console.log("actors: ", actors)
+      // console.log("awards: ", awards)
+      
+      // var movieInfo = []
+      // movieInfo.push("title: " + title)
+      // movieInfo.push("\n" + "year: " + year)
+      // movieInfo.push("\n" + "imdb rating: " + imdbRating + " after " + imdbVotes + " votes")
+      // movieInfo.push("\n" + "rotten tomatoes rating: " + rtRating)
+      // movieInfo.push("\n" + "country: " + country)
+      // movieInfo.push("\n" + "language: " + language)
+      // movieInfo.push("\n" + "plot: " + plot)
+      // movieInfo.push("\n" + "actors: " + actors)
+      // movieInfo.push("\n" + "awards: " + awards)
+
+      // writeLog(movieInfo)
+
+      var tempLit = 
+      (` 
+      title:                  ${title}
+      year:                   ${year}
+      imdb rating:            ${imdbRating} (after ${imdbVotes} votes)
+      rotten tomatoes rating: ${rtRating}
+      country of origin:      ${country}
+      language(s):            ${language}
+      plot summary:           ${plot}
+      actors:                 ${actors}
+      awards:                 ${awards}
+      `)
+
+      console.log(tempLit)
+      writeLog(tempLit)
     })
 
     // * Title of the movie.
