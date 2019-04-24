@@ -11,7 +11,7 @@ var command = process.argv[2]
 var value = process.argv[3]
 
 for (i = 4; pa[i]; i++)
-    value += " " + pa[i] 
+    value += " " + pa[i]
 
 var searchString = "user input command: " + command + " " + value;
 
@@ -34,7 +34,7 @@ function getConcertInfo(artist) {
     axios
     .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
     .then(function(response) {
-      // If the axios was successful...
+
       var rd = response.data[0]
     
       var artists = rd.lineup;
@@ -46,14 +46,8 @@ function getConcertInfo(artist) {
       var location = city + ", " + state + " (" + country + ")"
       var url = rd.url;
 
-      // console.log("artists: ", artists)
-      // console.log("date/time: ", datetime)
-      // console.log("venue: ", venue)
-      // console.log("location: ", location)
-      // console.log("click here for details: \n" + url)
-
       var tempLit = 
-      (` 
+      (`
       artists:    ${artists}
       date/time:  ${datetime}
       venue:      ${venue}
@@ -64,28 +58,9 @@ function getConcertInfo(artist) {
       `)
 
       console.log(tempLit)
-
-      // var toWrite = [];
-      // toWrite.push("artists: " + artists)
-      // toWrite.push("\n" + "date/time: " + datetime)
-      // toWrite.push("\n" + "venue: " + venue)
-      // toWrite.push("\n" + "location: " + location)
-      // toWrite.push("\n" + "click here for details: \n" + url)
-
-      // writeLog(toWrite);
-
       writeLog(tempLit)
-    })
 
-    // "datetime": "2017-03-19T11:00:00",
-    // "description": "This is a description",
-    // "venue": {
-    //   "name": "Encore Beach Club",
-    //   "latitude": "36.12714",
-    //   "longitude": "-115.1629562",
-    //   "city": "Las Vegas",
-    //   "region": "NV",
-    //   "country": "United States"
+    })
 
     .catch(function(error) {
       if (error.response) {
@@ -131,17 +106,6 @@ function getSpotifyInfo(song) {
         console.log(tempLit)
         writeLog(tempList)
 
-        // console.log("title: ", songTitle)
-        // console.log("artist: ", artistName); 
-        // console.log("preview link: ", previewURL)
-
-        
-        // var toWrite = [];
-        // toWrite.push("title: " + songTitle)
-        // toWrite.push("\n" + "artist: " + artistName); 
-        // toWrite.push("\n" + "preview link: " + previewURL)
-
-        // writeLog(toWrite)
     })
 }
 
@@ -152,9 +116,10 @@ function getMovieInfo(movie) {
     axios
     .get("http://www.omdbapi.com/?t=" + movie + "&apikey=trilogy")
     .then(function(response) {
-        var rd = response.data;
-      // If the axios was successful...
-    //   console.log("got the data:", response.data)
+        
+      var rd = response.data;
+
+      //   console.log("got the data:", response.data)
 
       var title = rd.Title;
       var year = rd.Year;
@@ -166,29 +131,6 @@ function getMovieInfo(movie) {
       var plot = rd.Plot;
       var actors = rd.Actors;
       var awards = rd.Awards;
-
-      // console.log("title: ", title)
-      // console.log("year: ", year)
-      // console.log("imdb rating: ", imdbRating, " after ", imdbVotes, " votes")
-      // console.log("rotten tomatoes rating: ", rtRating)
-      // console.log("country: ", country)
-      // console.log("language: ", language)
-      // console.log("plot: ", plot)
-      // console.log("actors: ", actors)
-      // console.log("awards: ", awards)
-      
-      // var movieInfo = []
-      // movieInfo.push("title: " + title)
-      // movieInfo.push("\n" + "year: " + year)
-      // movieInfo.push("\n" + "imdb rating: " + imdbRating + " after " + imdbVotes + " votes")
-      // movieInfo.push("\n" + "rotten tomatoes rating: " + rtRating)
-      // movieInfo.push("\n" + "country: " + country)
-      // movieInfo.push("\n" + "language: " + language)
-      // movieInfo.push("\n" + "plot: " + plot)
-      // movieInfo.push("\n" + "actors: " + actors)
-      // movieInfo.push("\n" + "awards: " + awards)
-
-      // writeLog(movieInfo)
 
       var tempLit = 
       (` 
@@ -206,15 +148,6 @@ function getMovieInfo(movie) {
       console.log(tempLit)
       writeLog(tempLit)
     })
-
-    // * Title of the movie.
-    // * Year the movie came out.
-    // * IMDB Rating of the movie.
-    // * Rotten Tomatoes Rating of the movie.
-    // * Country where the movie was produced.
-    // * Language of the movie.
-    // * Plot of the movie.
-    // * Actors in the movie.
 
     .catch(function(error) {
       if (error.response) {

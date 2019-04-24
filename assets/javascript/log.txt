@@ -163,3 +163,18 @@ user input command: movie-this mr nobody
       awards:                 11 wins & 5 nominations.
       
 -----------------
+
+user input command: movie-this mr nobody
+-----------------
+ 
+      title:                  Mr. Nobody
+      year:                   2009
+      imdb rating:            7.8 (after 195,193 votes)
+      rotten tomatoes rating: 67%
+      country of origin:      Belgium, Germany, Canada, France, USA, UK
+      language(s):            English, Mohawk
+      plot summary:           A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+      actors:                 Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+      awards:                 11 wins & 5 nominations.
+      
+-----------------
