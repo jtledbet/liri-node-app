@@ -1,6 +1,7 @@
 
 require("dotenv").config();
 var Spotify = require("node-spotify-api");
+var moment = require("moment")
 var axios = require("axios");
 var keys = require("./keys.js");
 var fs = require("fs")
@@ -15,19 +16,23 @@ for (i = 4; pa[i]; i++)
 
 var searchString = "user input command: " + command + " " + value;
 
-switch (command) {
-    case "concert-this": 
-        getConcertInfo(value);
-        break;
-    case "spotify-this-song": 
-        getSpotifyInfo(value);
-        break;
-    case "movie-this": 
-        getMovieInfo(value);
-        break;
-    case "do-what-it-says ":
-        doWhatItSays(value);
-        break;
+crossRoads(command, value);
+
+function crossRoads(command, value) {
+  switch (command) {
+      case "concert-this": 
+          getConcertInfo(value);
+          break;
+      case "spotify-this-song": 
+          getSpotifyInfo(value);
+          break;
+      case "movie-this": 
+          getMovieInfo(value);
+          break;
+      case "do-what-it-says":
+          doWhatItSays();
+          break;
+  }
 }
 
 function getConcertInfo(artist) {
@@ -45,6 +50,8 @@ function getConcertInfo(artist) {
       var country = rd.venue.country;
       var location = city + ", " + state + " (" + country + ")"
       var url = rd.url;
+
+      datetime = moment(datetime).format("MM/DD/YYYY");
 
       var tempLit = 
       (`
@@ -104,7 +111,7 @@ function getSpotifyInfo(song) {
         `)
 
         console.log(tempLit)
-        writeLog(tempList)
+        writeLog(tempLit)
 
     })
 }
@@ -168,8 +175,22 @@ function getMovieInfo(movie) {
     });
 }
 
-function doWhatItSays(value) {
+function doWhatItSays() {
 
+  fs.readFile("../../random.txt", "utf8", function(error, data) {
+
+    if (error) {
+      return console.log(error);
+    }
+  
+    console.log(data)
+
+    var c = data.slice(0, data.indexOf(','))
+    var v = data.slice(data.indexOf(',') + 1)
+    
+    crossRoads(c, v);
+  
+  });
 }
 
 function writeLog(data) {

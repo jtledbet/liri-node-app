@@ -178,3 +178,170 @@ user input command: movie-this mr nobody
       awards:                 11 wins & 5 nominations.
       
 -----------------
+
+user input command: movie-this mr nobody
+-----------------
+ 
+      title:                  Mr. Nobody
+      year:                   2009
+      imdb rating:            7.8 (after 195,193 votes)
+      rotten tomatoes rating: 67%
+      country of origin:      Belgium, Germany, Canada, France, USA, UK
+      language(s):            English, Mohawk
+      plot summary:           A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+      actors:                 Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+      awards:                 11 wins & 5 nominations.
+      
+-----------------
+
+user input command: movie-this forrest gump
+-----------------
+ 
+      title:                  Forrest Gump
+      year:                   1994
+      imdb rating:            8.8 (after 1,586,947 votes)
+      rotten tomatoes rating: 72%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+      actors:                 Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+      awards:                 Won 6 Oscars. Another 40 wins & 67 nominations.
+      
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  2019-06-18T19:30:00
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  2019-06-18T19:30:00
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: movie-this forrest gump
+-----------------
+ 
+      title:                  Forrest Gump
+      year:                   1994
+      imdb rating:            8.8 (after 1,586,947 votes)
+      rotten tomatoes rating: 72%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+      actors:                 Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+      awards:                 Won 6 Oscars. Another 40 wins & 67 nominations.
+      
+-----------------
+
+user input command: movie-this mr nobody
+-----------------
+ 
+      title:                  Mr. Nobody
+      year:                   2009
+      imdb rating:            7.8 (after 195,193 votes)
+      rotten tomatoes rating: 67%
+      country of origin:      Belgium, Germany, Canada, France, USA, UK
+      language(s):            English, Mohawk
+      plot summary:           A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+      actors:                 Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+      awards:                 11 wins & 5 nominations.
+      
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: movie-this undefined
+-----------------
+ 
+      title:                  Howard the Duck
+      year:                   1986
+      imdb rating:            4.6 (after 39,352 votes)
+      rotten tomatoes rating: 15%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.
+      actors:                 Lea Thompson, Jeffrey Jones, Tim Robbins, Ed Gale
+      awards:                 5 wins & 4 nominations.
+      
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
