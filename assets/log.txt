@@ -526,3 +526,99 @@ user input command: spotify-this-song shoop
         null
         
 -----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------

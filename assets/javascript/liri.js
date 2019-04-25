@@ -183,11 +183,14 @@ function doWhatItSays() {
       return console.log(error);
     }
   
-    console.log(data)
+    var splitLines = data.split(/\r?\n/);
 
-    var c = data.slice(0, data.indexOf(','))
-    var v = data.slice(data.indexOf(',') + 1)
-    
+    var roulette = Math.floor(Math.random() * splitLines.length);
+    var selectLine = splitLines[roulette]
+
+    var c = selectLine.slice(0, selectLine.indexOf(','))
+    var v = selectLine.slice(selectLine.indexOf(',') + 1)
+        v = v.split('"').join('');
     crossRoads(c, v);
   
   });
