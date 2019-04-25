@@ -197,7 +197,7 @@ function writeLog(data) {
     // console.log(data)
     var writeString = ("\n" + searchString + "\n" + "-----------------" + "\n" + data + "\n" + "-----------------" + "\n")
 
-    fs.appendFile("log.txt", writeString, function(error) {
+    fs.appendFile("../log.txt", writeString, function(error) {
         // If the code experiences any errors it will log the error to the console.
           if (error) {
               return console.log(error);

@@ -345,3 +345,184 @@ user input command: do-what-it-says undefined
       awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
       
 -----------------
+
+user input command: spotify-this-song undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song shoop
+-----------------
+ 
+        title:    Shoop
+        artist:   Salt-N-Pepa
+        preview link: 
+        null
+        
+-----------------
+
+user input command: spotify-this-song undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song shoop
+-----------------
+ 
+        title:    Shoop
+        artist:   Salt-N-Pepa
+        preview link: 
+        null
+        
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: movie-this howard the duck
+-----------------
+ 
+      title:                  Howard the Duck
+      year:                   1986
+      imdb rating:            4.6 (after 39,352 votes)
+      rotten tomatoes rating: 15%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.
+      actors:                 Lea Thompson, Jeffrey Jones, Tim Robbins, Ed Gale
+      awards:                 5 wins & 4 nominations.
+      
+-----------------
+
+user input command: spotify-this-song relax
+-----------------
+ 
+        title:    Ocean Waves Relax
+        artist:   White Noise For Baby Sleep
+        preview link: 
+        https://p.scdn.co/mp3-preview/b9fa45580d571d7444452b7abad04b92055c8a86?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+      artists:    dave matthews
+      date/time:  06/18/2019
+      venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+      location:   Canandaigua, NY (United States)
+
+      click below for details:  
+      https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+      
+-----------------
+
+user input command: movie-this howard the duck
+-----------------
+ 
+      title:                  Howard the Duck
+      year:                   1986
+      imdb rating:            4.6 (after 39,352 votes)
+      rotten tomatoes rating: 15%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A sarcastic humanoid duck is pulled from his homeworld to Earth where he must stop a hellish alien invasion with the help of a nerdy scientist and a cute struggling female rock singer who fancies him.
+      actors:                 Lea Thompson, Jeffrey Jones, Tim Robbins, Ed Gale
+      awards:                 5 wins & 4 nominations.
+      
+-----------------
+
+user input command: do-what-it-says undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: spotify-this-song relax
+-----------------
+ 
+        title:    Ocean Waves Relax
+        artist:   White Noise For Baby Sleep
+        preview link: 
+        https://p.scdn.co/mp3-preview/b9fa45580d571d7444452b7abad04b92055c8a86?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song relax
+-----------------
+ 
+        title:    Ocean Waves Relax
+        artist:   White Noise For Baby Sleep
+        preview link: 
+        https://p.scdn.co/mp3-preview/b9fa45580d571d7444452b7abad04b92055c8a86?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song shoop
+-----------------
+ 
+        title:    Shoop
+        artist:   Salt-N-Pepa
+        preview link: 
+        null
+        
+-----------------
+
+user input command: spotify-this-song undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song shoop
+-----------------
+ 
+        title:    Shoop
+        artist:   Salt-N-Pepa
+        preview link: 
+        null
+        
+-----------------
