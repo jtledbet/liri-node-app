@@ -36,37 +36,42 @@ function crossRoads(command, value) {
 }
 
 function getConcertInfo(artist) {
-    axios
+  
+  if (artist == undefined) artist = "whitesnake"
+
+  axios
     .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
-    .then(function(response) {
+    .then(function (response) {
 
-      var rd = response.data[0]
-    
-      var artists = rd.lineup;
-      var venue = rd.venue.name;
-      var datetime = rd.datetime;
-      var city = rd.venue.city;
-      var state = rd.venue.region;
-      var country = rd.venue.country;
-      var location = city + ", " + state + " (" + country + ")"
-      var url = rd.url;
+      for (i = 0; (response.data[i]) && (i < 5); i++) {
+        var rd = response.data[i]
 
-      datetime = moment(datetime).format("MM/DD/YYYY");
+        var artists = rd.lineup;
+            artists = (artists.toString()).replace(",",", ");
+        var venue = rd.venue.name;
+        var datetime = rd.datetime;
+        var city = rd.venue.city;
+        var state = rd.venue.region;
+        var country = rd.venue.country;
+        var location = city + ", " + state + " (" + country + ")"
+        var url = rd.url;
 
-      var tempLit = 
-      (`
-      artists:    ${artists}
-      date/time:  ${datetime}
-      venue:      ${venue}
-      location:   ${location}
+        datetime = moment(datetime).format("MM/DD/YYYY");
 
-      click below for details:  
-      ${url}
-      `)
+        var tempLit =
+          (`
+        artists:    ${artists}
+        date/time:  ${datetime}
+        venue:      ${venue}
+        location:   ${location}
 
-      console.log(tempLit)
-      writeLog(tempLit)
+        click below for details:  
+        ${url}
+        `)
 
+        console.log(tempLit)
+        writeLog(tempLit)
+      }
     })
 
     .catch(function(error) {

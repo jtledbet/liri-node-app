@@ -622,3 +622,666 @@ user input command: do-what-it-says undefined
       https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
       
 -----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+        artists:    dave matthews
+        date/time:  06/18/2019
+        venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+        location:   Canandaigua, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this dave matthews
+-----------------
+
+        artists:    dave matthews
+        date/time:  06/18/2019
+        venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+        location:   Canandaigua, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/25/2019
+        venue:      Seminole Hard Rock Hotel & Casino - Hollywood, FL
+        location:   Hollywood, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517945?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/26/2019
+        venue:      The Maxwell C. King Center
+        location:   Melbourne, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012514132?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  04/28/2019
+        venue:      Ovens Auditorium
+        location:   Charlotte, NC (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  04/29/2019
+        venue:      Rose Music Center at The Heights
+        location:   Huber Heights, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519325?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/01/2019
+        venue:      The National
+        location:   Richmond, VA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/02/2019
+        venue:      Xcite Center at Parx Casino
+        location:   Bensalem, PA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517696?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Skid Row,Warrant,Dokken,Kip Winger,Firehouse,L.A. Guns,George Lynch,Kix,Vixen,Bang Tango,Kingdom Come,Danger Danger,Vince Neil,Tora Tora,Vain,Quiet Riot,Autograph,Steven Adler,M3 Rock Festival,Mick Brown,Heavens Edge,Extreme -
+        date/time:  05/03/2019
+        venue:      Merriweather Post Pavilion
+        location:   Columbia, MD (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012870804?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Warrant,Firehouse,Kingdom Come,Danger Danger,Tora Tora,Autograph,Steven Adler,M3 Rock Festival
+        date/time:  05/04/2019
+        venue:      Merriweather Post Pavilion
+        location:   Columbia, MD (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1014208019?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/05/2019
+        venue:      Penns Peak
+        location:   Jim Thorpe, PA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517603?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/07/2019
+        venue:      Starland Ballroom
+        location:   Sayreville, NJ (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517879?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  05/08/2019
+        venue:      The Paramount
+        location:   Huntington, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519526?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  05/10/2019
+        venue:      Hampton Beach Casino Ballroom
+        location:   Hampton Beach, NH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517742?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  05/14/2019
+        venue:      The Palace Theatre
+        location:   Greensburg, PA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012513981?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/11/2019
+        venue:      Twin River Casino
+        location:   Lincoln, RI (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1013297230?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/15/2019
+        venue:      Agora Theater & Ballroom
+        location:   Cleveland, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517624?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/17/2019
+        venue:      Turning Stone Resort Casino
+        location:   Verona, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012563043?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/18/2019
+        venue:      Seneca Niagara Resort and Casino Outdoor Venue
+        location:   Niagara Falls, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1013146528?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  06/12/2019
+        venue:      Poppodium 013
+        location:   Tilburg,  (Netherlands)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012952782?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Slipknot,Rob Zombie,Trivium,Def Leppard,Amon Amarth,More,Delain,Carcass,The Conspirators,Slash (Featuring Myles Kennedy)
+        date/time:  06/14/2019
+        venue:      donnington park, derby
+        location:   London,  (United Kingdom)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012309942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Underoath,Slipknot,Rob Zombie,Trivium,Def Leppard,Opeth,Me First and the Gimme Gimmes,Skindred,Tesla,Amon Amarth,Delain,Tool,Carcass,The Amity Affliction,Powertrip,Slash,Die Antwoord,Starset,Reel Big Fish
+        date/time:  06/16/2019
+        venue:      Donington Park Circuit
+        location:   Derby,  (United Kingdom)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012316312?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Def Leppard
+        date/time:  06/19/2019
+        venue:      Mediolanum Forum
+        location:   Assago,  (Italy)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012294376?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Def Leppard,Cradle of Filth,Sick of It All,Eluveitie,Delain,Sabaton,Orange Goblin,In Flames,Kiss,Carcass,Immolation,Equilibrium,Hawkwind,FM,Phil Campbell,Powertrip,Skálmöld,Crisix
+        date/time:  06/23/2019
+        venue:      Plein Air
+        location:   Dessel,  (France)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012420120?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  07/01/2019
+        venue:      Arenele Romane
+        location:   Boekarest,  (Romania)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1013303357?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  07/03/2019
+        venue:      ŠRC Šalata
+        location:   Zagreb,  (Croatia)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012721807?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  07/07/2019
+        venue:      Palladium
+        location:   Köln,  (Germany)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012789393?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Europe,Sonata Arctica,Amorphis,W.A.S.P.,Brother Firetribe,Mokoma,D-A-D,Santa Cruz,Marco Hietala,Battle Beast,Flat Earth
+        date/time:  07/12/2019
+        venue:      Ratinanniemi
+        location:   Tampere,  (Finland)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1013885139?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Europe,Sonata Arctica,Brother Firetribe,Battle Beast
+        date/time:  07/13/2019
+        venue:      Ratinanniemi
+        location:   Tampere,  (Finland)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1013915152?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Red Hot Chili Peppers,Muse,Foo Fighters,Bon Jovi,Slayer,Iron Maiden,Drake,King Crimson,Imagine Dragons,Xenia,Jessie J,Charlie Puth,Black Eyed Peas -,Robin Schulz,P!nk
+        date/time:  09/27/2019
+        venue:      City of Rock
+        location:   Rio De Janeiro,  (Brazil)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1014578935?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,Def Leppard,Cradle of Filth,Eagles of Death Metal,The Living End,Within Temptation,The Adicts,Skindred,Dark Tranquillity,Architects,Bloodbath,The Creepshow,Cult of Luna,Whitechapel,Cave In,Punish Yourself,Fiend,Envy,Sham 69,Batmobile,BANANE METALIK,Les Wampas,ZZ Top,Will Haven,The Ocean,The Sisters of Mercy,Kiss,Candlemass,FM,Koritni,Sumac,Allegaeon,Carach Angren,LE BAL DES ENRAGES,Trepalium,Mantar,Archspire,Combichrist,Dawn of Disease,Coilguns,Shaârghot,Dool,FEVER 333
+        date/time:  06/22/2019
+        venue:      Complexe Du Val De Moine
+        location:   Saint-hilaire-de-clisson,  (France)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012735959?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/25/2019
+        venue:      Seminole Hard Rock Hotel & Casino - Hollywood, FL
+        location:   Hollywood, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517945?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/26/2019
+        venue:      The Maxwell C. King Center
+        location:   Melbourne, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012514132?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  04/28/2019
+        venue:      Ovens Auditorium
+        location:   Charlotte, NC (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake,The Black Moods
+        date/time:  04/29/2019
+        venue:      Rose Music Center at The Heights
+        location:   Huber Heights, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519325?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/01/2019
+        venue:      The National
+        location:   Richmond, VA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Cher
+        date/time:  04/26/2019
+        venue:      KeyBank Center
+        location:   Buffalo, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1011684709?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Cher,Chic,Nile Rodgers & Chic
+        date/time:  04/28/2019
+        venue:      TD Garden
+        location:   Boston, MA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1011685710?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Cher
+        date/time:  04/30/2019
+        venue:      MassMutual Center
+        location:   Springfield, MA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1011685678?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Cher,Chic,Nile Rodgers & Chic
+        date/time:  05/03/2019
+        venue:      Prudential Center
+        location:   Newark, NJ (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1011685116?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Cher,Chic,Nile Rodgers & Chic
+        date/time:  05/02/2019
+        venue:      Barclays Center
+        location:   Brooklyn, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1011684937?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    
+        date/time:  04/25/2019
+        venue:      Seminole Hard Rock Hotel & Casino - Hollywood, FL
+        location:   Hollywood, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517945?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    
+        date/time:  04/26/2019
+        venue:      The Maxwell C. King Center
+        location:   Melbourne, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012514132?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    
+        date/time:  05/01/2019
+        venue:      The National
+        location:   Richmond, VA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    
+        date/time:  04/28/2019
+        venue:      Ovens Auditorium
+        location:   Charlotte, NC (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    
+        date/time:  04/29/2019
+        venue:      Rose Music Center at The Heights
+        location:   Huber Heights, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519325?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/25/2019
+        venue:      Seminole Hard Rock Hotel & Casino - Hollywood, FL
+        location:   Hollywood, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517945?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/26/2019
+        venue:      The Maxwell C. King Center
+        location:   Melbourne, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012514132?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Whitesnake, The Black Moods
+        date/time:  04/29/2019
+        venue:      Rose Music Center at The Heights
+        location:   Huber Heights, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519325?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Whitesnake, The Black Moods
+        date/time:  04/28/2019
+        venue:      Ovens Auditorium
+        location:   Charlotte, NC (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this undefined
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/01/2019
+        venue:      The National
+        location:   Richmond, VA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
