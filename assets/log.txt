@@ -1285,3 +1285,371 @@ user input command: concert-this undefined
         https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
         
 -----------------
+
+user input command: undefined undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: undefined undefined
+-----------------
+
+        artists:    dave matthews
+        date/time:  06/18/2019
+        venue:      Constellation Brands–Marvin Sands Performing Arts Center: CMAC
+        location:   Canandaigua, NY (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1014077457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+      title:                  The Matrix
+      year:                   1999
+      imdb rating:            8.7 (after 1,488,823 votes)
+      rotten tomatoes rating: 88%
+      country of origin:      USA
+      language(s):            English
+      plot summary:           A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+      actors:                 Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+      awards:                 Won 4 Oscars. Another 34 wins & 48 nominations.
+      
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song take on me
+-----------------
+ 
+        title:    Take on Me
+        artist:   a-ha
+        preview link: 
+        https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song breathe
+-----------------
+ 
+        title:    Breathe
+        artist:   Lil Skies
+        preview link: 
+        https://p.scdn.co/mp3-preview/17ebb3b632c7427ea2330bdc5406a777200752e3?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+        
+-----------------
+
+user input command: spotify-this-song breathe
+-----------------
+ 
+          title:    Breathe
+          artist:   Lil Skies
+          preview link: 
+          https://p.scdn.co/mp3-preview/17ebb3b632c7427ea2330bdc5406a777200752e3?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song breathe
+-----------------
+ 
+          title:    Breathe
+          artist:   Lil Skies
+          preview link: 
+          https://p.scdn.co/mp3-preview/17ebb3b632c7427ea2330bdc5406a777200752e3?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song breathe
+-----------------
+ 
+          title:    Breathe
+          artist:   Lil Skies
+          preview link: 
+          https://p.scdn.co/mp3-preview/17ebb3b632c7427ea2330bdc5406a777200752e3?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song stop
+-----------------
+ 
+          title:    Dont Stop
+          artist:   Raghu Dixit
+          preview link: 
+          https://p.scdn.co/mp3-preview/ed895d06d5f99f740d5b2b3b4928d4f64e256550?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song stop
+-----------------
+ 
+          title:    Dont Stop
+          artist:   Raghu Dixit
+          preview link: 
+          https://p.scdn.co/mp3-preview/ed895d06d5f99f740d5b2b3b4928d4f64e256550?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song stop
+-----------------
+ 
+          title:    Don't Stop Me Now - Remastered
+          artist:   Queen
+          preview link: 
+          null
+          
+-----------------
+
+user input command: spotify-this-song stop
+-----------------
+ 
+          title:    Don't Stop Believin'
+          artist:   Journey
+          preview link: 
+          https://p.scdn.co/mp3-preview/21b9abd3cd2eea634e17a917196fdd5ba2e82670?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song help
+-----------------
+ 
+          title:    Can't Help Falling in Love
+          artist:   Haley Reinhart
+          preview link: 
+          https://p.scdn.co/mp3-preview/de4980f22292880edbd6a69c62d4e8a9a1e0207b?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song help
+-----------------
+ 
+          title:    Can't Help Falling in Love
+          artist:   Elvis Presley
+          preview link: 
+          https://p.scdn.co/mp3-preview/994ebd7f49e4e935df56d450b0c12d8bad8bb9f4?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: spotify-this-song help
+-----------------
+ 
+          title:    Heaven Help Me
+          artist:   Lizzo
+          preview link: 
+          https://p.scdn.co/mp3-preview/c41a054b3e5842228e6fdb50fa0a3c7063170030?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: movie-this love
+-----------------
+ 
+      title:                  Love
+      year:                   2015
+      imdb rating:            6.0 (after 35,651 votes)
+      rotten tomatoes rating: 51/100
+      country of origin:      France, Belgium
+      language(s):            English, French
+      plot summary:           Murphy is an American living in Paris who enters a highly sexually and emotionally charged relationship with the unstable Electra. Unaware of the effect it will have on their relationship, they invite their pretty neighbor into their bed.
+      actors:                 Aomi Muyock, Karl Glusman, Klara Kristin, Ugo Fox
+      awards:                 2 wins & 1 nomination.
+      
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/25/2019
+        venue:      Seminole Hard Rock Hotel & Casino - Hollywood, FL
+        location:   Hollywood, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517945?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  04/26/2019
+        venue:      The Maxwell C. King Center
+        location:   Melbourne, FL (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012514132?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake, The Black Moods
+        date/time:  04/28/2019
+        venue:      Ovens Auditorium
+        location:   Charlotte, NC (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake, The Black Moods
+        date/time:  04/29/2019
+        venue:      Rose Music Center at The Heights
+        location:   Huber Heights, OH (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012519325?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: concert-this whitesnake
+-----------------
+
+        artists:    Whitesnake
+        date/time:  05/01/2019
+        venue:      The National
+        location:   Richmond, VA (United States)
+
+        click below for details:  
+        https://www.bandsintown.com/e/1012517681?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+        
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+          title:    Take on Me
+          artist:   a-ha
+          preview link: 
+          https://p.scdn.co/mp3-preview/0f980d0fac59f77123d0272b78bce97f1374d9e9?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+          title:    Take On Me
+          artist:   Weezer
+          preview link: 
+          https://p.scdn.co/mp3-preview/80619d72824409cc5c381edd1f514f3bb8e65a76?cid=40b1cfb1bee141b7bbfb5be2b4418fec
+          
+-----------------
+
+user input command: undefined undefined
+-----------------
+ 
+          title:    Take A Chance On Me
+          artist:   ABBA
+          preview link: 
+          N/A
+          
+-----------------

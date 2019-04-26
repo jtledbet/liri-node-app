@@ -32,6 +32,9 @@ function crossRoads(command, value) {
       case "do-what-it-says":
           doWhatItSays();
           break;
+      default:
+          doWhatItSays();
+          break;
   }
 }
 
@@ -43,7 +46,12 @@ function getConcertInfo(artist) {
     .get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
     .then(function (response) {
 
-      for (i = 0; (response.data[i]) && (i < 5); i++) {
+      // dump pretty data for analysis:
+      var str = JSON.stringify(response.data, null, 2); // spacing level = 2
+      fs.writeFile("../bands-response-data.txt", str, function(error) {})
+      
+      var resultsLimit = 5;
+      for (i = 0; (response.data[i]) && (i < resultsLimit); i++) {
         var rd = response.data[i]
 
         var artists = rd.lineup;
@@ -97,26 +105,34 @@ function getSpotifyInfo(song) {
     if (song === undefined) song = "take on me"
 
     var spotify = new Spotify(keys.spotify);
+    var resultLimit = 3;
 
-    spotify.search({ type: 'track', query: song, limit: 1}, function(err, data) {
+    spotify.search({ type: 'track', query: song, limit: resultLimit}, function(err, data) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
        
-        var songTitle = data.tracks.items[0].name;
-        var artistName = data.tracks.items[0].artists[0].name;
-        var previewURL = data.tracks.items[0].preview_url
+        // dump pretty data for analysis:
+        var str = JSON.stringify(data, null, 2); // spacing level = 2
+        fs.writeFile("../spotify-response-data.txt", str, function(error) {})
 
-        var tempLit = 
-        (` 
-        title:    ${songTitle}
-        artist:   ${artistName}
-        preview link: 
-        ${previewURL}
-        `)
+        for (i = 0; i < resultLimit && data.tracks.items[i] != undefined; i++) {
+          var songTitle = data.tracks.items[i].name;
+          var artistName = data.tracks.items[i].artists[0].name;
+          var previewURL = data.tracks.items[i].preview_url;
+            if (previewURL === null) previewURL = "N/A";
 
-        console.log(tempLit)
-        writeLog(tempLit)
+          var tempLit = 
+          (` 
+          title:    ${songTitle}
+          artist:   ${artistName}
+          preview link: 
+          ${previewURL}
+          `)
+
+          console.log(tempLit)
+          writeLog(tempLit)
+        }
 
     })
 }
@@ -131,7 +147,9 @@ function getMovieInfo(movie) {
         
       var rd = response.data;
 
-      //   console.log("got the data:", response.data)
+      // dump pretty data for analysis:
+      var str = JSON.stringify(rd, null, 2); // spacing level = 2
+      fs.writeFile("../omdb-response-data.txt", str, function(error) {})
 
       var title = rd.Title;
       var year = rd.Year;
